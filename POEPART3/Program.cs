@@ -13,8 +13,8 @@ namespace POEPART3
             static void Main()
             {
                 Application.EnableVisualStyles();
-                ApplicatiAon.SetCompatibleTextRenderingDefault(false);
-                ApplicationConfiguration.Initialize();
+                Application.SetCompatibleTextRenderingDefault(false);
+               
                 Application.Run(new Form1());
             }
         }
