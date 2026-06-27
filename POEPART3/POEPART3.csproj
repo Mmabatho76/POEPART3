@@ -73,6 +73,7 @@
     <Compile Include="AsciiArt.cs" />
     <Compile Include="AudioPlayer.cs" />
     <Compile Include="ChatbotEngine.cs" />
+    <Compile Include="DatabaseHelper.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
